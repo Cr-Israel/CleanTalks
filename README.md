@@ -26,7 +26,7 @@
 ### Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/forum-nest-ddd.git
+git clone https://github.com/Cr-Israel/CleanTalks.git
 ```
 2. Navigate to the project directory:
 ```bash
