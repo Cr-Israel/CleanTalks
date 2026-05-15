@@ -7,7 +7,7 @@
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
 
 ## 🚀 Introduction
-**Forum-Nest-DDD** is a robust and scalable forum application built with **NestJS** and **Domain-Driven Design (DDD)** principles. This project aims to provide a clean architecture, modular design, and a rich feature set for building modern forum platforms.
+**Clean Talks** is a robust and scalable forum application built with **NestJS** and **Domain-Driven Design (DDD)** principles. This project aims to provide a clean architecture, modular design, and a rich feature set for building modern forum platforms.
 
 ## 🌟 Features
 - 💬 **Question Management**: Create, read, update, and delete questions.
@@ -30,7 +30,7 @@ git clone https://github.com/Cr-Israel/CleanTalks.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd forum-nest-ddd
+cd clean-talks
 ```
 3. Install dependencies:
 ```bash
